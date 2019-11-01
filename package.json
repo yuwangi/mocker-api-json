@@ -1,0 +1,32 @@
+{
+  "name": "mocker-api-json",
+  "version": "1.0.8",
+  "description": "his is dev support mock RESTful API.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "webpack-dev-server",
+    "webpack-api-mocker",
+    "webpack",
+    "mocker-api",
+    "mocker-api-json",
+    "mock",
+    "mocker",
+    "api",
+    "fetch"
+  ],
+  "author": "yuwangi",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.15",
+    "mocker-api": "^1.9.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "colors-cli": "^1.0.26"
+  }
+}
