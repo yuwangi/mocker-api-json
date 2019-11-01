@@ -1,11 +1,3 @@
-/*
- * @Author: your name
- * @Date: 2019-10-24 16:34:00
- * @LastEditTime: 2019-11-01 18:55:17
- * @LastEditors: your name
- * @Description: In User Settings Edit
- * @FilePath: \mocker-api-json\src\index.js
- */
 const delay = require("mocker-api/utils/delay");
 const fs = require("fs");
 const path = require("path");
