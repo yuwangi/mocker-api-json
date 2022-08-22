@@ -3,6 +3,8 @@
 
 `mocker-api-json` that creates mocks for REST APIs. It will be helpful when you try to test your application without the actual REST API server.
 
+PS: 最新更新请在 语雀yuwangi 中查看
+
 ## 特此声明
 
 本`npm`包依赖于[mocker-api](https://www.npmjs.com/package/mocker-api)
