@@ -23,7 +23,7 @@
   "dependencies": {
     "fs": "0.0.1-security",
     "lodash": "^4.17.15",
-    "mocker-api": "^1.9.0",
+    "mocker-api": "^2.9.10",
     "path": "^0.12.7"
   },
   "devDependencies": {
